@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=shashanksb17&icon=7&color=0)](https://visitcount.itsvg.in)
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Shashank Basutkar</h1>
