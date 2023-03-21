@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👨‍💻 All of my projects are available at  **[My Portfolio](https://shashanksb17.github.io/)**
+- 👨‍💻 All of my projects are available at  **[My Portfolio](https://shashanksb17.github.io)**
 
 - 📫 How to reach me **sbasutkar999@gmail.com**
 
