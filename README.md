@@ -38,7 +38,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shashanksb17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">📊 My Github Stats:</h3>
+## <h3 align="left">📊 My Github Stats:</h3>
 <p align="left">
 
  
