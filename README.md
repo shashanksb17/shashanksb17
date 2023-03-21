@@ -14,10 +14,6 @@
 
 - 📫 How to reach me **sbasutkar999@gmail.com**
 
-- ⚡ Fun fact **Fun fact I love to watching Movies and Anime**
-
-
-
 ## Languages and Tools:
 ![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=white) 
 ![Sketchup](https://img.shields.io/badge/-sketchup-red?style=for-the-badge&logo=sketchup&logoColor=white)
