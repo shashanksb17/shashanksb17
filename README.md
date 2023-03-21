@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
 
-<h3 align="left">🙋‍♂️ About Me:</h3>
+## <h3 align="left">🙋‍♂️ About Me:</h3>
 
 - 🔭 I’m currently pursuing Full Stack Web Development course from **[Masai School](https://www.masaischool.com/)**
 
