@@ -45,22 +45,18 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksb17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="shashanksb17" /></p>
 <p>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-<br/>
-
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
+  <br/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-
+## 🌐 Socials:
 
 [![](https://visitcount.itsvg.in/api?id=shashanksb17&icon=7&color=0)](https://visitcount.itsvg.in)
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/shashank-basutkar-3bb523206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/shashankb98"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/shashank_basutkar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCxdEn5JB40xhZmaLtu6ap0w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+  <a href = "https://www.linkedin.com/in/shashank-basutkar-3bb523206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "https://twitter.com/shashankb98"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href = "https://www.instagram.com/shashank_basutkar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href = "https://www.youtube.com/channel/UCxdEn5JB40xhZmaLtu6ap0w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
 
