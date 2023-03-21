@@ -35,6 +35,8 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksb17&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="shashanksb17" /></p>
 <br/>
 
+🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shashanksb17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <h3 align="left">📊 My Github Stats:</h3>
 <p align="left">
