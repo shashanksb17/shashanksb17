@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![](https://media2.giphy.com/media/1BfRG8cK5SPOer97aK/giphy.gif?cid=ecf05e476nwzh3af763r2ioq89t3o7rtkwhl5ppttuar6blz&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 <a href="#"><img width="100%" height="auto" src="(https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="175px"/></a>
 
 <h2 align="center">Hi 👋, I am Shashank Basutkar.</h2>
