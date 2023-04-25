@@ -75,7 +75,7 @@
 
 <div align ="center">
   <tr>
-	<td><img src="https://github-readme-stats.vercel.app/api?username=shashanksb17&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="shashanksb17 />
+	<td><img src="https://github-readme-stats.vercel.app/api?username=shashanksb17&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="shashanksb17 /></td>
 	
     	<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksb17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="shashanksb17" /></td>
   </tr>
