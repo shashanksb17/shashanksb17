@@ -78,9 +78,9 @@
 
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksb17&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="shashanksb17" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashanksb17&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="shashanksb17" /></p>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shashanksb17&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="shashanksb17" /></p>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksb17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="shashanksb17" /></p>
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksb17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="shashanksb17" /></p>
 
 </div>
 
