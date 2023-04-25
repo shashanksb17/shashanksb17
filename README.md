@@ -38,9 +38,6 @@
   <br/>
     <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-sketchup-red?style=for-the-badge&logo=sketchup&logoColor=white" />&nbsp;&nbsp;
-
-
   <br/>
 </p>
 <hr>
@@ -55,8 +52,6 @@
      <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />&nbsp;&nbsp;
-     <img src="[https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white](https://img.shields.io/badge/-sketchup-red?style=for-the-badge&logo=sketchup&logoColor=white)" alt="Sketchup" />&nbsp;&nbsp;
-  
  <br/>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />&nbsp;&nbsp;
