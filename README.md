@@ -26,6 +26,9 @@
  
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
+  
+<h2 align="center">🚀 Languages and Tools: </h2>
+
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
  <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47bjfe8te8r9n9ajgj8iez0d0fe62z4yzwhcbkghl7&rid=giphy.gif&ct=g">
  
