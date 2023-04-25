@@ -1,18 +1,26 @@
 
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<a href="#"><img width="100%" height="auto" src="(https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="175px"/></a>
 
-<h1 align="center">Hi 👋, I'm Shashank Basutkar</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h2 align="center">Hi 👋, I am Shashank Basutkar.</h2>
+  <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+!++I+am+Shashank+Basutkar;I+am+a+Full-Stack+Node+Developer;Interested+to+coordinate+with+a+team;Curious+to+master+new+things+!" alt="Typing SVG" /></a></div>
+<hr>
 
 ## <h3 align="left">🙋‍♂️ About Me:</h3>
 
-- 🔭 I’m currently pursuing Full Stack Web Development course from **[Masai School](https://www.masaischool.com/)**
+ - 🔭 I’m currently working on Backend Projects</a>
+  <br><br>
+ - 🌱 I’m currently learning ***NodeJs with ExpressJs***.
+  <br><br>
+ - 🤔 Check Out my <a href="https://drive.google.com/file/d/11_-r_h6_JgUhM2Dp9SmyMQJFasghLrMJ/view">Resume</a>
+  <br><br>
+ - 👨‍💻  Know more about me <a href="https://shashanksb17.github.io/">Portfolio</a>
+  <br><br>
+ - 😄 All of my projects are available at <a href="https://github.com/shashanksb17">My Github Repositories</a>
+  <br><br>
+ - 💬 Ask me about **HTML, CSS, JavaScript, NoSQL, SQL, Node.js, ExpressJs, typescript, AWS**
+  <br><br>
+ - 📫 How to reach me ***sbasutkar999@gmail.com***
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-https://shashanksb17.github.io
-
-- 📫 How to reach me **sbasutkar999@gmail.com**
 
 ## Languages and Tools:
 ![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=white) 
