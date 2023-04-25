@@ -65,9 +65,8 @@
 <br/>
 
 ## <h3 align="center">🏆 GitHub Trophies</h3>
-<div align="center">
-    ![](https://github-profile-trophy.vercel.app/?username=shashanksb17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</div>
+![](https://github-profile-trophy.vercel.app/?username=shashanksb17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 ## 📊 My Github Stats:
