@@ -94,7 +94,7 @@
 ## <h3 align="center">🌐 Socials</h3>
 
 
-<p align="center">
+<p align="center" display="flex" justify-content="space-between">
   <a href = "https://www.linkedin.com/in/shashank-basutkar-3bb523206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://twitter.com/shashankb98"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
   <a href = "https://www.instagram.com/shashank_basutkar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
