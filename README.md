@@ -89,12 +89,14 @@
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
   
 
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+</div>
 
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 
-## <h3 align="center">🌐 Socials</h3>
-
-
-<p align="center" display="flex" justify-content="space-between">
+## <h3 align="center">🌐 Socials </h3>
+<p align="center">
   <a href = "https://www.linkedin.com/in/shashank-basutkar-3bb523206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://twitter.com/shashankb98"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
   <a href = "https://www.instagram.com/shashank_basutkar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
