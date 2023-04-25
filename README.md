@@ -6,7 +6,7 @@
   
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
-## <h3 align="left">🙋‍♂️ About Me:</h3>
+## <h3 align="center">💫♂️ About Me:</h3>
 
  - 🔭 I’m currently working on Backend Projects</a>
   <br><br>
@@ -62,28 +62,13 @@
 <br/>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
-
-## Languages and Tools:
-![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=white) 
-![Sketchup](https://img.shields.io/badge/-sketchup-red?style=for-the-badge&logo=sketchup&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B) 
-[![Socket.IO](https://img.shields.io/badge/Socket.IO-white?style=for-the-badge&logo=socket.io&logoColor=010101)](https://socket.io/) 
-[![WebSocket](https://img.shields.io/badge/WebSocket-white?style=for-the-badge&logo=websocket&logoColor=3587fb)](https://en.wikipedia.org/wiki/WebSocket)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-
-
 <br/>
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=shashanksb17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## <h3 align="center">🏆 GitHub Trophies</h3>
+<div align="center">
+    ![](https://github-profile-trophy.vercel.app/?username=shashanksb17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
+
 
 ## 📊 My Github Stats:
   
