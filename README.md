@@ -2,7 +2,9 @@
 <a href="#"><img width="100%" height="auto" src="(https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="175px"/></a>
 
 <h2 align="center">Hi 👋, I am Shashank Basutkar.</h2>
-  <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+!++I+am+Shashank+Basutkar;I+am+a+Full-Stack+Node+Developer;Interested+to+coordinate+with+a+team;Curious+to+master+new+things+!" alt="Typing SVG" /></a></div>
+  <div align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+!++I+am+Shashank+Basutkar;I+am+a+Full-Stack+Node+Developer;Interested+to+coordinate+with+a+team;Curious+to+master+new+things+!" alt="Typing SVG" /></a>
+  </div>
   
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
@@ -69,7 +71,7 @@
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 
-## 📊 My Github Stats:
+## <h3 align="center">📊 My Github Stats</h3>
   
 <div display="flex">
 <!--   <p align="left"> -->
