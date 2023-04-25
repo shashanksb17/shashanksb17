@@ -72,6 +72,23 @@
 
 
 ## <h3 align="center">📊 My Github Stats</h3>
+
+<div align ="center">
+  <tr>
+	<td><img src="https://github-readme-stats.vercel.app/api?username=shashanksb17&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="shashanksb17 />
+	
+    	<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksb17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="shashanksb17" /></td>
+  </tr>
+</div>
+ 
+<div align="center">
+	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksb17&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="shashanksb17" /></p>
+</div>
+
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+	<p align="center"> <img src="https://visitcount.itsvg.in/api?id=shashanksb17&icon=7&color=0" alt="shashanksb17" /> </p>
+
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
   
 <div display="flex">
 <!--   <p align="left"> -->
