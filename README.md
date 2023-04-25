@@ -88,25 +88,13 @@
 	<p align="center"> <img src="https://visitcount.itsvg.in/api?id=shashanksb17&icon=7&color=0" alt="shashanksb17" /> </p>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
   
-<div display="flex">
-<!--   <p align="left"> -->
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksb17&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="shashanksb17" /></p>
-
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shashanksb17&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="shashanksb17" /></p>
-
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksb17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="shashanksb17" /></p>
-<p>
-  <br/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
-  <br/>
-<!-- </p> -->
-</div>
 
 
-## 🌐 Socials:
 
-[![](https://visitcount.itsvg.in/api?id=shashanksb17&icon=7&color=0)](https://visitcount.itsvg.in)
-<p align="left">
+## <h3 align="center">🌐 Socials</h3>
+
+
+<p align="center">
   <a href = "https://www.linkedin.com/in/shashank-basutkar-3bb523206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://twitter.com/shashankb98"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
   <a href = "https://www.instagram.com/shashank_basutkar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
@@ -114,7 +102,5 @@
 </p>
 
 
-<div> 
- 
 
 
