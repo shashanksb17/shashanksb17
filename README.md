@@ -25,7 +25,7 @@
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
- <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47iaux2vfdxanfkdwce044y9fpgu5gkvsnos6yh5i0&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+ <img align="right" alt="Coding" width="400" src="[https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47iaux2vfdxanfkdwce044y9fpgu5gkvsnos6yh5i0&ep=v1_gifs_related&rid=giphy.gif&ct=g](https://www.pluralsight.com/)">
 <p>
      <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
