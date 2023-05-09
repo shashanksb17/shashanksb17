@@ -1,5 +1,5 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<a href="#"><img width="100%" height="auto" src="(https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="175px"/></a>
+<!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
+<!-- <a href="#"><img width="100%" height="auto" src="(https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="175px"/></a> -->
 
 <h2 align="center">Hi 👋, I am Shashank Basutkar.</h2>
   <div align="center">
