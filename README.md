@@ -16,7 +16,7 @@
   <br><br>
  - 🤔 Check Out my ***<a href="https://drive.google.com/file/d/11_-r_h6_JgUhM2Dp9SmyMQJFasghLrMJ/view">Resume</a>***
   <br><br>
- - 👨‍💻  Know more about me ***[Portfolio](https://shashanksb17.github.io//)***
+ - 👨‍💻  Know more about me ***[Portfolio](https://shashanksb17.github.io)***
   <br><br>
  - 😄 All of my projects are available at ***<a href="https://github.com/shashanksb17?tab=repositories">Github Repositories</a>***
   <br><br>
