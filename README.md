@@ -93,25 +93,22 @@
 
 </div>
 
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-	<p align="center"> <img src="https://visitcount.itsvg.in/api?id=shashanksb17&icon=7&color=0" alt="shashanksb17" /> </p>
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+
+<br/>
+
   
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-</div>
-
-<!-- <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  -->
-***
-
-## <h3 align="center">🌐 Socials </h3>
+<!-- ## <h3 align="center">🌐 Socials </h3>
 <p align="center">
   <a href = "https://www.linkedin.com/in/shashank-basutkar-3bb523206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://twitter.com/shashankb98"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
   <a href = "https://www.youtube.com/channel/UCxdEn5JB40xhZmaLtu6ap0w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
+<br/> -->
 
+***
 
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=shashanksb17&icon=7&color=0" alt="shashanksb17" /> </p>
+
+***
 
 
