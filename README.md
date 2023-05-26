@@ -30,7 +30,7 @@
   
 <h2 align="center">🚀 Languages and Tools: </h2>
 
-<h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
+<h4><img src="./files/stats.webp" width="30px">&nbsp;Tech Stack..</h4>
  <img align="right" alt="Coding" width="400" src="./files/giphy.webp">
  
 <p>
