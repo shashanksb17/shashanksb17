@@ -2,11 +2,12 @@
 <!-- <a href="#"><img width="100%" height="auto" src="(https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="175px"/></a> -->
 
 <h2 align="center">Hi 👋, I am Shashank Basutkar.</h2>
+***
   <div align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+!++I+am+Shashank+Basutkar;I+am+a+Full-Stack+Node+Developer;Interested+to+coordinate+with+a+team;Curious+to+master+new+things+!" alt="Typing SVG" /></a>
   </div>
   
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+***
 
 ## <h3 align="center">💫♂️ About Me:</h3>
 
@@ -24,7 +25,7 @@
   <br><br>
  - 📫 How to reach me ***sbasutkar999@gmail.com***
  
- <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+***
 
   
 <h2 align="center">🚀 Languages and Tools: </h2>
@@ -65,13 +66,15 @@
     <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />&nbsp;&nbsp;
 </p>
 <br/>
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+<!-- <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> -->
+***
 
 
 ## <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=shashanksb17&theme=radical&no-frame=false&no-bg=true&margin-w=4"  />&nbsp;&nbsp;</p>
 
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+<!-- <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> -->
+***
 
 
 ## <h3 align="center">📊 My Github Stats</h3>
@@ -96,7 +99,8 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+<!-- <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  -->
+***
 
 ## <h3 align="center">🌐 Socials </h3>
 <p align="center">
