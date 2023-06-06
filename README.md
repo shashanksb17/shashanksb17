@@ -1,33 +1,30 @@
-<!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
-<!-- <a href="#"><img width="100%" height="auto" src="(https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="175px"/></a> -->
+<img align="center" src="https://camo.githubusercontent.com/6119d106575d1a4ec3a95529bf2fd1027f7be0369f29ffa6bac01d3a8c813b4b/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d74696d654772616469656e74266865696768743d3135302673656374696f6e3d68656164657226746578743d596f75253230466f756e642532304d652c253230417765736f6d652126666f6e7453697a653d333526666f6e74416c69676e593d323026646573633d2e2e2e72656164253230612532306c6974746c6525323061626f75742532306d652e266465736353697a653d32302664657363416c69676e593d343526616e696d6174696f6e3d7477696e6b6c696e67" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=150&amp;section=header&amp;text=You%20Found%20Me,%20Awesome!&amp;fontSize=35&amp;fontAlignY=20&amp;desc=...Know%20a%20little%20about%20me.&amp;descSize=20&amp;descAlignY=45&amp;animation=twinkling" style="max-width: 100%;">
 
 <h2 align="center">Hi 👋, I am Shashank Basutkar.</h2>
 
-***
 
-  <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+!++I+am+Shashank+Basutkar;I+am+a+Full-Stack+Node+Developer;Interested+to+coordinate+with+a+team;Curious+to+master+new+things+!" alt="Typing SVG" /></a>
-  </div>
+ <div align="center" margin-left="100px">
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+!++I+am+Shashank+Basutkar;I+am+a+Full-Stack+Node+Developer;Interested+to+coordinate+with+a+team;Curious+to+master+new+things+!" alt="Typing SVG" /></a>
+ </div>
   
-***
 
-## <h3 align="center">💫♂️ About Me:</h3>
 
- - 🔭 I’m currently working on Backend Projects</a>
-  <br><br>
- - 🌱 I’m currently learning ***NodeJs with ExpressJs***.
-  <br><br>
- - 🤔 Check Out my ***<a href="https://drive.google.com/file/d/11_-r_h6_JgUhM2Dp9SmyMQJFasghLrMJ/view">Resume</a>***
-  <br><br>
- - 👨‍💻  Know more about me ***<a href="https://shashanksb17.github.io/">Portfolio</a>***
-  <br><br>
- - 😄 All of my projects are available at ***<a href="https://github.com/shashanksb17?tab=repositories">Github Repositories</a>***
-  <br><br>
- - 💬 Ask me about ***HTML, CSS, JavaScript, NoSQL, SQL, Node.js, ExpressJs, typescript, AWS***
-  <br><br>
- - 📫 How to reach me ***sbasutkar999@gmail.com***
- 
-***
+<h3 align="center">💫About Me:</h3>
+
+- 🔭 I’m currently Pursuing **Full Stack Web Development**
+
+- 🌱 I’m currently learning **Node.js, Express, MongoDB**
+
+ - 🤔 Check Out my **<a href="https://drive.google.com/file/d/11_-r_h6_JgUhM2Dp9SmyMQJFasghLrMJ/view">Resume</a>**
+
+- 💻 Know more about me [Portfolio](https://shashanksb17.github.io)
+
+ - 💬 Ask me about **HTML, CSS, JavaScript, NoSQL, SQL, Node.js, ExpressJs & DSA**
+
+ - 📫 How to reach me **sbasutkar999@gmail.com**
+
+
+
 
   
 <h2 align="center">🚀 Languages and Tools: </h2>
