@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently Pursuing **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Node.js, Express, MongoDB**
+- 🌱 Currently learning **Node.js, Express, MongoDB**
 
  - 🤔 Check Out my **<a href="https://drive.google.com/file/d/11_-r_h6_JgUhM2Dp9SmyMQJFasghLrMJ/view">Resume</a>**
 
