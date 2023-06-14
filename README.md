@@ -11,7 +11,7 @@
 
 <h3 align="center">💫About Me:</h3>
 
-- 🔭 I’m currently Pursuing **Full Stack Web Development**
+- 🔭 I am currently Pursuing **Full Stack Web Development**
 
 - 🌱 Currently learning **Node.js, Express, MongoDB**
 
