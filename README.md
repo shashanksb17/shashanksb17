@@ -15,7 +15,7 @@
 
 - 🌱 Currently learning **Node.js, Express, MongoDB**
 
- - 🤔 Check Out my **<a href="https://drive.google.com/file/d/11_-r_h6_JgUhM2Dp9SmyMQJFasghLrMJ/view">Resume</a>**
+ - 🤔 Check Out my **<a href="https://drive.google.com/file/d/1Z9c17pRV4UHUv0vQ6GyRpMO8Diu2usRn/view?usp=sharing">Resume</a>**
 
 - 💻 Know more about me [Portfolio](https://shashanksb17.github.io)
 
