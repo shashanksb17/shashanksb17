@@ -19,7 +19,7 @@
 
 - 💻 Know more about me [Portfolio](https://shashanksb17.github.io)
 
- - 💬 Ask me about **HTML, CSS, JavaScript, NoSQL, SQL, Node.js, ExpressJs & DSA**
+ - 💬 Ask me about **HTML, CSS, JavaScript, NoSQL, SQL, Node.js, ExpressJs, Python, Django & DSA**
 
  - 📫 How to reach me **sbasutkar999@gmail.com**
 
