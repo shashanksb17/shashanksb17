@@ -11,9 +11,9 @@
 
 <h3 align="center">💫About Me:</h3>
 
-- 🔭 I am currently Pursuing **Full Stack Web Development**
+- 🔭 I am currently a **Backend Developer**
 
-- 🌱 Currently learning **Node.js, Express, MongoDB**
+- 🌱 Currently working **Nestjs, Typescript, PostgresSQL**
 
  - 🤔 Check Out my **<a href="https://drive.google.com/file/d/1Z9c17pRV4UHUv0vQ6GyRpMO8Diu2usRn/view?usp=sharing">Resume</a>**
 
