@@ -1,92 +1,165 @@
-
-
-<h2 align="center">Hi 👋, I am Shashank Basutkar.</h2>
-
-
- <div align="center" margin-left="100px">
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+!++I+am+Shashank+Basutkar;I+am+a+Full-Stack+Node+Developer;Interested+to+coordinate+with+a+team;Curious+to+master+new+things+!" alt="Typing SVG" /></a>
- </div>
-  
-
-
-<h3 align="center">💫About Me:</h3>
-
-- 🔭 I am currently a **Backend Developer**
-
-- 🌱 Currently working **Nestjs, Typescript, PostgresSQL**
-
- - 🤔 Check Out my **<a href="https://drive.google.com/file/d/1Z9c17pRV4UHUv0vQ6GyRpMO8Diu2usRn/view?usp=sharing">Resume</a>**
-
-- 💻 Know more about me [Portfolio](https://shashanksb17.github.io)
-
- - 💬 Ask me about **HTML, CSS, JavaScript, NoSQL, SQL, Node.js, ExpressJs, Python, Django & DSA**
-
- - 📫 How to reach me **sbasutkar999@gmail.com**
-
-
-
-<h2 align="center">🚀 Languages and Tools:</h2>
-<br/>
 <div align="center">
- 
- <div align="center"><h3 align="center">Frontend</h3>
- 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-<br/>
-
-</div>
- <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-<img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
- </div>
-  
-  <div align="center"><h3 align="center">Tools</h3> 
- 
-   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" align="center" />
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" align="center" />
-    <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" align="center"/>
-   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" align="center"/>
-   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" align="center"/>
-   <br/>
-   <br/>
- </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=160&section=header&text=Shashank%20Basutkar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=SDE%202%20·%20Backend%20·%20Fintech&descAlignY=55&descSize=16" alt="header" />
 </div>
 
+<div align="center">
 
-<h2 align="center">📊 My Github Stats</h2>
-<p display="flex" gap="10px" margin="auto"> 
- <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashanksb17&theme=chartreuse_dark">
- <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashanksb17&theme=chartreuse_dark">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksb17&theme=highcontrast&hide_border=true" alt="shashanksb17" />
-</p>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=I+build+production+backends;NestJS+%7C+TypeScript+%7C+PostgreSQL;APIs%2C+auth%2C+payments%2C+and+scale)](https://git.io/typing-svg)
 
-<br/>
+  **SDE 2 (Backend)** · NestJS, TypeScript, PostgreSQL · Bengaluru, India
 
-  
-## <h3 align="center">🌐 Socials </h3>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-basutkar-3bb523206/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://shashanksb17.github.io)
+  [![Resume](https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Z9c17pRV4UHUv0vQ6GyRpMO8Diu2usRn/view?usp=sharing)
+  [![Email](https://img.shields.io/badge/Email-sbasutkar999%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbasutkar999@gmail.com)
+  [![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.com)
+
+</div>
+
+---
+
+## About
+
+I design and ship **backend systems for fintech** — auth, payments, partner flows, and high-traffic APIs — with NestJS, TypeScript, and PostgreSQL.
+
+```javascript
+const shashank = {
+  role: "SDE 2 — Backend",
+  location: "Bengaluru, India",
+  languages: ["TypeScript", "JavaScript", "SQL", "Python"],
+  askMeAbout: [
+    "NestJS",
+    "REST APIs",
+    "RBAC / permissions",
+    "PostgreSQL",
+    "Redis caching",
+    "payment integrations",
+    "system design"
+  ],
+  technologies: {
+    backend: ["Node.js", "NestJS", "Express"],
+    databases: ["PostgreSQL", "Redis", "MongoDB", "Sequelize"],
+    auth: ["JWT", "RBAC", "CASL"],
+    cloud: ["AWS", "Docker", "Jenkins", "GitHub Actions"],
+    also: ["Django", "React"]
+  },
+  editor: "Cursor",
+  currentFocus: "Scalable APIs, data integrity, and clean architecture",
+};
+```
+
+**What I work on**
+
+- High-traffic APIs with Redis caching
+- Subscription and partner programs
+- Vendor-to-in-house backend migrations
+- RBAC and API permissions
+- Payments, SMS, WhatsApp, and Docs integrations
+
+---
+
+## Stack
+
 <p align="center">
-  <a href = "https://www.linkedin.com/in/shashank-basutkar-3bb523206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://twitter.com/shashankb98"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href = "https://www.youtube.com/channel/UCxdEn5JB40xhZmaLtu6ap0w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,postgres,redis,mongodb,python,django,docker,aws,linux,git,githubactions,postman" alt="skills" />
+  </a>
 </p>
-<br/>
 
+| Area | Tools |
+| --- | --- |
+| **Languages** | TypeScript · JavaScript · SQL · Python |
+| **Backend** | NestJS · Node.js · Express · REST · WebSockets |
+| **Data** | PostgreSQL · Sequelize · Redis · MongoDB |
+| **Auth** | JWT · RBAC · CASL |
+| **Cloud & delivery** | AWS · Docker · Jenkins · GitHub Actions |
+| **Editor** | Cursor |
+| **Also used** | Django · React · HTML/CSS |
 
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=shashanksb17&icon=7&color=0" alt="shashanksb17" /> </p>
+---
 
+## Experience
 
+| Company | Role | Focus |
+| --- | --- | --- |
+| **Creddinv** | SDE 2 — Backend | Fintech APIs, payments, RBAC, Redis, partner programs |
+| **K12 Techno Services** | SDE 1 — Backend | Notification microservice, CareerBox HR platform, query optimization |
 
+---
+
+## Selected work
+
+**Production** *(most of this is private)*
+
+| What | What I built |
+| --- | --- |
+| Fintech backend — NestJS, PostgreSQL, Redis | Vendor migration, RBAC, payments and partner APIs |
+| Subscription & partner programs | Investor onboarding; Payments / SMS / WhatsApp / Docs |
+| CareerBox + notifications (K12) | HR platform backend; push / in-app / email notifications |
+
+**Public**
+
+| Project | What it is |
+| --- | --- |
+| [Video Chat (Airmeet)](https://github.com/shashanksb17/Video-Chat_application) | Real-time video rooms |
+| [CodeSweeper](https://github.com/shashanksb17/CodeSweeper) | AI-assisted convert / debug / quality checks |
+| [Air Ticket Booking API](https://github.com/shashanksb17/Air-Ticket-Booking-backend) | Node + Express + JWT booking backend |
+| [Chunked file upload](https://github.com/shashanksb17/Chunked-file-upload-ctruh) | Parallel chunked uploads |
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=shashanksb17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shashanksb17&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shashanksb17&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashanksb17&theme=tokyonight" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashanksb17&theme=tokyonight" alt="Summary stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashanksb17&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashanksb17&theme=tokyonight" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/58A6FF/shashanksb17" alt="Contribution graph" />
+</p>
+
+<p align="center"><i>Top languages reflect public repos only — not everything I work on day to day.</i></p>
+
+---
+
+## Cursor
+
+Daily editor for NestJS / TypeScript backend work.
+
+<!-- cursor-stats:start -->
+<p align="center">
+  <img src="./cursor-stats.png" alt="Cursor usage stats" />
+</p>
+<!-- cursor-stats:end -->
+
+---
+
+## Reach me
+
+Open to backend roles, system-design discussions, and NestJS / Node work.
+
+<p align="center">
+  <a href="mailto:sbasutkar999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/shashank-basutkar-3bb523206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://twitter.com/shashankb98"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
+  <a href="https://www.youtube.com/channel/UCxdEn5JB40xhZmaLtu6ap0w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=100&section=footer" alt="footer" />
+</div>
