@@ -78,6 +78,7 @@ const shashank = {
 
 ---
 
+<<<<<<< HEAD
 ## Experience
 
 | Company | Role | Focus |
@@ -162,3 +163,10 @@ Open to backend roles, system-design discussions, and NestJS / Node work.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=100&section=footer" alt="footer" />
 </div>
+=======
+<!-- cursor-stats:start -->
+
+<img src="cursor-stats.png" alt="Cursor coding activity" width="640" />
+
+<!-- cursor-stats:end -->
+>>>>>>> 7a450ea (Add Cursor stats card)

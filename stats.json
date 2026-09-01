@@ -1,0 +1,2248 @@
+{
+    "daily": [
+        {
+            "composerAccepted": 5197,
+            "date": "2026-01-13",
+            "tabAccepted": 4,
+            "totalAccepted": 5201
+        },
+        {
+            "composerAccepted": 1887,
+            "date": "2026-01-14",
+            "tabAccepted": 0,
+            "totalAccepted": 1887
+        },
+        {
+            "composerAccepted": 7326,
+            "date": "2026-01-16",
+            "tabAccepted": 8,
+            "totalAccepted": 7334
+        },
+        {
+            "composerAccepted": 832,
+            "date": "2026-01-19",
+            "tabAccepted": 27,
+            "totalAccepted": 859
+        },
+        {
+            "composerAccepted": 2182,
+            "date": "2026-01-20",
+            "tabAccepted": 55,
+            "totalAccepted": 2237
+        },
+        {
+            "composerAccepted": 4083,
+            "date": "2026-01-21",
+            "tabAccepted": 4,
+            "totalAccepted": 4087
+        },
+        {
+            "composerAccepted": 787,
+            "date": "2026-01-22",
+            "tabAccepted": 0,
+            "totalAccepted": 787
+        },
+        {
+            "composerAccepted": 592,
+            "date": "2026-01-23",
+            "tabAccepted": 0,
+            "totalAccepted": 592
+        },
+        {
+            "composerAccepted": 2295,
+            "date": "2026-01-24",
+            "tabAccepted": 0,
+            "totalAccepted": 2295
+        },
+        {
+            "composerAccepted": 1667,
+            "date": "2026-01-25",
+            "tabAccepted": 0,
+            "totalAccepted": 1667
+        },
+        {
+            "composerAccepted": 19231,
+            "date": "2026-01-27",
+            "tabAccepted": 18,
+            "totalAccepted": 19249
+        },
+        {
+            "composerAccepted": 2835,
+            "date": "2026-01-28",
+            "tabAccepted": 4,
+            "totalAccepted": 2839
+        },
+        {
+            "composerAccepted": 6424,
+            "date": "2026-01-29",
+            "tabAccepted": 4,
+            "totalAccepted": 6428
+        },
+        {
+            "composerAccepted": 51,
+            "date": "2026-01-30",
+            "tabAccepted": 2,
+            "totalAccepted": 53
+        },
+        {
+            "composerAccepted": 193,
+            "date": "2026-02-02",
+            "tabAccepted": 4,
+            "totalAccepted": 197
+        },
+        {
+            "composerAccepted": 1121,
+            "date": "2026-02-03",
+            "tabAccepted": 2,
+            "totalAccepted": 1123
+        },
+        {
+            "composerAccepted": 5442,
+            "date": "2026-02-04",
+            "tabAccepted": 23,
+            "totalAccepted": 5465
+        },
+        {
+            "composerAccepted": 868,
+            "date": "2026-02-05",
+            "tabAccepted": 1,
+            "totalAccepted": 869
+        },
+        {
+            "composerAccepted": 7308,
+            "date": "2026-02-09",
+            "tabAccepted": 0,
+            "totalAccepted": 7308
+        },
+        {
+            "composerAccepted": 1678,
+            "date": "2026-02-10",
+            "tabAccepted": 0,
+            "totalAccepted": 1678
+        },
+        {
+            "composerAccepted": 947,
+            "date": "2026-02-11",
+            "tabAccepted": 7,
+            "totalAccepted": 954
+        },
+        {
+            "composerAccepted": 664,
+            "date": "2026-02-12",
+            "tabAccepted": 2,
+            "totalAccepted": 666
+        },
+        {
+            "composerAccepted": 2511,
+            "date": "2026-02-13",
+            "tabAccepted": 23,
+            "totalAccepted": 2534
+        },
+        {
+            "composerAccepted": 1156,
+            "date": "2026-02-14",
+            "tabAccepted": 0,
+            "totalAccepted": 1156
+        },
+        {
+            "composerAccepted": 1993,
+            "date": "2026-02-16",
+            "tabAccepted": 0,
+            "totalAccepted": 1993
+        },
+        {
+            "composerAccepted": 212,
+            "date": "2026-02-17",
+            "tabAccepted": 0,
+            "totalAccepted": 212
+        },
+        {
+            "composerAccepted": 261,
+            "date": "2026-02-18",
+            "tabAccepted": 0,
+            "totalAccepted": 261
+        },
+        {
+            "composerAccepted": 475,
+            "date": "2026-02-20",
+            "tabAccepted": 0,
+            "totalAccepted": 475
+        },
+        {
+            "composerAccepted": 17,
+            "date": "2026-02-23",
+            "tabAccepted": 0,
+            "totalAccepted": 17
+        },
+        {
+            "composerAccepted": 413,
+            "date": "2026-02-24",
+            "tabAccepted": 0,
+            "totalAccepted": 413
+        },
+        {
+            "composerAccepted": 0,
+            "date": "2026-02-25",
+            "tabAccepted": 2,
+            "totalAccepted": 2
+        },
+        {
+            "composerAccepted": 0,
+            "date": "2026-02-26",
+            "tabAccepted": 0,
+            "totalAccepted": 0
+        },
+        {
+            "composerAccepted": 1228,
+            "date": "2026-03-04",
+            "tabAccepted": 0,
+            "totalAccepted": 1228
+        },
+        {
+            "composerAccepted": 1119,
+            "date": "2026-03-05",
+            "tabAccepted": 0,
+            "totalAccepted": 1119
+        },
+        {
+            "composerAccepted": 3728,
+            "date": "2026-03-09",
+            "tabAccepted": 3,
+            "totalAccepted": 3731
+        },
+        {
+            "composerAccepted": 838,
+            "date": "2026-03-10",
+            "tabAccepted": 0,
+            "totalAccepted": 838
+        },
+        {
+            "composerAccepted": 1988,
+            "date": "2026-03-11",
+            "tabAccepted": 0,
+            "totalAccepted": 1988
+        },
+        {
+            "composerAccepted": 406,
+            "date": "2026-03-12",
+            "tabAccepted": 2,
+            "totalAccepted": 408
+        },
+        {
+            "composerAccepted": 126,
+            "date": "2026-03-13",
+            "tabAccepted": 18,
+            "totalAccepted": 144
+        },
+        {
+            "composerAccepted": 1772,
+            "date": "2026-03-16",
+            "tabAccepted": 6,
+            "totalAccepted": 1778
+        },
+        {
+            "composerAccepted": 426,
+            "date": "2026-03-17",
+            "tabAccepted": 16,
+            "totalAccepted": 442
+        },
+        {
+            "composerAccepted": 164,
+            "date": "2026-03-18",
+            "tabAccepted": 3,
+            "totalAccepted": 167
+        },
+        {
+            "composerAccepted": 811,
+            "date": "2026-03-19",
+            "tabAccepted": 0,
+            "totalAccepted": 811
+        },
+        {
+            "composerAccepted": 2347,
+            "date": "2026-03-20",
+            "tabAccepted": 0,
+            "totalAccepted": 2347
+        },
+        {
+            "composerAccepted": 284,
+            "date": "2026-03-21",
+            "tabAccepted": 0,
+            "totalAccepted": 284
+        },
+        {
+            "composerAccepted": 205,
+            "date": "2026-03-22",
+            "tabAccepted": 2,
+            "totalAccepted": 207
+        },
+        {
+            "composerAccepted": 1842,
+            "date": "2026-03-23",
+            "tabAccepted": 2,
+            "totalAccepted": 1844
+        },
+        {
+            "composerAccepted": 251,
+            "date": "2026-03-24",
+            "tabAccepted": 0,
+            "totalAccepted": 251
+        },
+        {
+            "composerAccepted": 62,
+            "date": "2026-03-25",
+            "tabAccepted": 0,
+            "totalAccepted": 62
+        },
+        {
+            "composerAccepted": 826,
+            "date": "2026-03-26",
+            "tabAccepted": 4,
+            "totalAccepted": 830
+        },
+        {
+            "composerAccepted": 1408,
+            "date": "2026-03-27",
+            "tabAccepted": 0,
+            "totalAccepted": 1408
+        },
+        {
+            "composerAccepted": 399,
+            "date": "2026-03-30",
+            "tabAccepted": 2,
+            "totalAccepted": 401
+        },
+        {
+            "composerAccepted": 81,
+            "date": "2026-03-31",
+            "tabAccepted": 0,
+            "totalAccepted": 81
+        },
+        {
+            "composerAccepted": 1601,
+            "date": "2026-04-02",
+            "tabAccepted": 0,
+            "totalAccepted": 1601
+        },
+        {
+            "composerAccepted": 922,
+            "date": "2026-04-06",
+            "tabAccepted": 4,
+            "totalAccepted": 926
+        },
+        {
+            "composerAccepted": 164,
+            "date": "2026-04-07",
+            "tabAccepted": 0,
+            "totalAccepted": 164
+        },
+        {
+            "composerAccepted": 91,
+            "date": "2026-04-08",
+            "tabAccepted": 0,
+            "totalAccepted": 91
+        },
+        {
+            "composerAccepted": 636,
+            "date": "2026-04-09",
+            "tabAccepted": 0,
+            "totalAccepted": 636
+        },
+        {
+            "composerAccepted": 1160,
+            "date": "2026-04-10",
+            "tabAccepted": 0,
+            "totalAccepted": 1160
+        },
+        {
+            "composerAccepted": 3446,
+            "date": "2026-04-11",
+            "tabAccepted": 0,
+            "totalAccepted": 3446
+        },
+        {
+            "composerAccepted": 3303,
+            "date": "2026-04-12",
+            "tabAccepted": 13,
+            "totalAccepted": 3316
+        },
+        {
+            "composerAccepted": 1030,
+            "date": "2026-04-13",
+            "tabAccepted": 8,
+            "totalAccepted": 1038
+        },
+        {
+            "composerAccepted": 618,
+            "date": "2026-04-14",
+            "tabAccepted": 0,
+            "totalAccepted": 618
+        },
+        {
+            "composerAccepted": 441,
+            "date": "2026-04-15",
+            "tabAccepted": 0,
+            "totalAccepted": 441
+        },
+        {
+            "composerAccepted": 2284,
+            "date": "2026-04-16",
+            "tabAccepted": 0,
+            "totalAccepted": 2284
+        },
+        {
+            "composerAccepted": 618,
+            "date": "2026-04-17",
+            "tabAccepted": 0,
+            "totalAccepted": 618
+        },
+        {
+            "composerAccepted": 167,
+            "date": "2026-04-19",
+            "tabAccepted": 0,
+            "totalAccepted": 167
+        },
+        {
+            "composerAccepted": 206,
+            "date": "2026-04-20",
+            "tabAccepted": 2,
+            "totalAccepted": 208
+        },
+        {
+            "composerAccepted": 788,
+            "date": "2026-04-21",
+            "tabAccepted": 2,
+            "totalAccepted": 790
+        },
+        {
+            "composerAccepted": 688,
+            "date": "2026-04-22",
+            "tabAccepted": 0,
+            "totalAccepted": 688
+        },
+        {
+            "composerAccepted": 1229,
+            "date": "2026-04-23",
+            "tabAccepted": 0,
+            "totalAccepted": 1229
+        },
+        {
+            "composerAccepted": 487,
+            "date": "2026-04-24",
+            "tabAccepted": 0,
+            "totalAccepted": 487
+        },
+        {
+            "composerAccepted": 397,
+            "date": "2026-04-27",
+            "tabAccepted": 0,
+            "totalAccepted": 397
+        },
+        {
+            "composerAccepted": 6743,
+            "date": "2026-04-28",
+            "tabAccepted": 0,
+            "totalAccepted": 6743
+        },
+        {
+            "composerAccepted": 1698,
+            "date": "2026-04-29",
+            "tabAccepted": 0,
+            "totalAccepted": 1698
+        },
+        {
+            "composerAccepted": 4967,
+            "date": "2026-04-30",
+            "tabAccepted": 0,
+            "totalAccepted": 4967
+        },
+        {
+            "composerAccepted": 4477,
+            "date": "2026-05-01",
+            "tabAccepted": 2,
+            "totalAccepted": 4479
+        },
+        {
+            "composerAccepted": 6,
+            "date": "2026-05-02",
+            "tabAccepted": 0,
+            "totalAccepted": 6
+        },
+        {
+            "composerAccepted": 626,
+            "date": "2026-05-04",
+            "tabAccepted": 0,
+            "totalAccepted": 626
+        },
+        {
+            "composerAccepted": 1426,
+            "date": "2026-05-05",
+            "tabAccepted": 2,
+            "totalAccepted": 1428
+        },
+        {
+            "composerAccepted": 127,
+            "date": "2026-05-06",
+            "tabAccepted": 0,
+            "totalAccepted": 127
+        },
+        {
+            "composerAccepted": 1626,
+            "date": "2026-05-07",
+            "tabAccepted": 4,
+            "totalAccepted": 1630
+        },
+        {
+            "composerAccepted": 346,
+            "date": "2026-05-08",
+            "tabAccepted": 0,
+            "totalAccepted": 346
+        },
+        {
+            "composerAccepted": 5895,
+            "date": "2026-05-09",
+            "tabAccepted": 0,
+            "totalAccepted": 5895
+        },
+        {
+            "composerAccepted": 240,
+            "date": "2026-05-11",
+            "tabAccepted": 0,
+            "totalAccepted": 240
+        },
+        {
+            "composerAccepted": 644,
+            "date": "2026-05-12",
+            "tabAccepted": 4,
+            "totalAccepted": 648
+        },
+        {
+            "composerAccepted": 398,
+            "date": "2026-05-13",
+            "tabAccepted": 2,
+            "totalAccepted": 400
+        },
+        {
+            "composerAccepted": 77,
+            "date": "2026-05-14",
+            "tabAccepted": 0,
+            "totalAccepted": 77
+        },
+        {
+            "composerAccepted": 996,
+            "date": "2026-05-15",
+            "tabAccepted": 0,
+            "totalAccepted": 996
+        },
+        {
+            "composerAccepted": 119,
+            "date": "2026-05-16",
+            "tabAccepted": 0,
+            "totalAccepted": 119
+        },
+        {
+            "composerAccepted": 25,
+            "date": "2026-05-18",
+            "tabAccepted": 0,
+            "totalAccepted": 25
+        },
+        {
+            "composerAccepted": 431,
+            "date": "2026-05-19",
+            "tabAccepted": 0,
+            "totalAccepted": 431
+        },
+        {
+            "composerAccepted": 709,
+            "date": "2026-05-20",
+            "tabAccepted": 0,
+            "totalAccepted": 709
+        },
+        {
+            "composerAccepted": 610,
+            "date": "2026-05-21",
+            "tabAccepted": 0,
+            "totalAccepted": 610
+        },
+        {
+            "composerAccepted": 406,
+            "date": "2026-05-22",
+            "tabAccepted": 0,
+            "totalAccepted": 406
+        },
+        {
+            "composerAccepted": 0,
+            "date": "2026-05-24",
+            "tabAccepted": 0,
+            "totalAccepted": 0
+        },
+        {
+            "composerAccepted": 1485,
+            "date": "2026-05-25",
+            "tabAccepted": 0,
+            "totalAccepted": 1485
+        },
+        {
+            "composerAccepted": 2409,
+            "date": "2026-05-26",
+            "tabAccepted": 0,
+            "totalAccepted": 2409
+        },
+        {
+            "composerAccepted": 1118,
+            "date": "2026-05-27",
+            "tabAccepted": 0,
+            "totalAccepted": 1118
+        },
+        {
+            "composerAccepted": 0,
+            "date": "2026-05-28",
+            "tabAccepted": 0,
+            "totalAccepted": 0
+        },
+        {
+            "composerAccepted": 1287,
+            "date": "2026-05-29",
+            "tabAccepted": 0,
+            "totalAccepted": 1287
+        },
+        {
+            "composerAccepted": 668,
+            "date": "2026-06-01",
+            "tabAccepted": 1,
+            "totalAccepted": 669
+        },
+        {
+            "composerAccepted": 1081,
+            "date": "2026-06-02",
+            "tabAccepted": 0,
+            "totalAccepted": 1081
+        },
+        {
+            "composerAccepted": 14,
+            "date": "2026-06-03",
+            "tabAccepted": 0,
+            "totalAccepted": 14
+        },
+        {
+            "composerAccepted": 953,
+            "date": "2026-06-04",
+            "tabAccepted": 0,
+            "totalAccepted": 953
+        },
+        {
+            "composerAccepted": 782,
+            "date": "2026-06-08",
+            "tabAccepted": 0,
+            "totalAccepted": 782
+        },
+        {
+            "composerAccepted": 990,
+            "date": "2026-06-09",
+            "tabAccepted": 0,
+            "totalAccepted": 990
+        },
+        {
+            "composerAccepted": 1710,
+            "date": "2026-06-10",
+            "tabAccepted": 0,
+            "totalAccepted": 1710
+        },
+        {
+            "composerAccepted": 2589,
+            "date": "2026-06-11",
+            "tabAccepted": 0,
+            "totalAccepted": 2589
+        },
+        {
+            "composerAccepted": 2230,
+            "date": "2026-06-12",
+            "tabAccepted": 0,
+            "totalAccepted": 2230
+        },
+        {
+            "composerAccepted": 174,
+            "date": "2026-06-15",
+            "tabAccepted": 10,
+            "totalAccepted": 184
+        },
+        {
+            "composerAccepted": 14,
+            "date": "2026-06-16",
+            "tabAccepted": 0,
+            "totalAccepted": 14
+        },
+        {
+            "composerAccepted": 1229,
+            "date": "2026-06-17",
+            "tabAccepted": 3,
+            "totalAccepted": 1232
+        },
+        {
+            "composerAccepted": 370,
+            "date": "2026-06-18",
+            "tabAccepted": 6,
+            "totalAccepted": 376
+        },
+        {
+            "composerAccepted": 1299,
+            "date": "2026-06-19",
+            "tabAccepted": 2,
+            "totalAccepted": 1301
+        },
+        {
+            "composerAccepted": 3743,
+            "date": "2026-06-22",
+            "tabAccepted": 4,
+            "totalAccepted": 3747
+        },
+        {
+            "composerAccepted": 212,
+            "date": "2026-06-23",
+            "tabAccepted": 4,
+            "totalAccepted": 216
+        },
+        {
+            "composerAccepted": 2109,
+            "date": "2026-06-24",
+            "tabAccepted": 0,
+            "totalAccepted": 2109
+        },
+        {
+            "composerAccepted": 378,
+            "date": "2026-06-25",
+            "tabAccepted": 2,
+            "totalAccepted": 380
+        },
+        {
+            "composerAccepted": 1389,
+            "date": "2026-06-26",
+            "tabAccepted": 16,
+            "totalAccepted": 1405
+        },
+        {
+            "composerAccepted": 1246,
+            "date": "2026-06-29",
+            "tabAccepted": 13,
+            "totalAccepted": 1259
+        },
+        {
+            "composerAccepted": 1108,
+            "date": "2026-06-30",
+            "tabAccepted": 0,
+            "totalAccepted": 1108
+        },
+        {
+            "composerAccepted": 1252,
+            "date": "2026-07-01",
+            "tabAccepted": 0,
+            "totalAccepted": 1252
+        },
+        {
+            "composerAccepted": 78,
+            "date": "2026-07-02",
+            "tabAccepted": 0,
+            "totalAccepted": 78
+        },
+        {
+            "composerAccepted": 61,
+            "date": "2026-07-03",
+            "tabAccepted": 0,
+            "totalAccepted": 61
+        },
+        {
+            "composerAccepted": 1351,
+            "date": "2026-07-06",
+            "tabAccepted": 0,
+            "totalAccepted": 1351
+        },
+        {
+            "composerAccepted": 67,
+            "date": "2026-07-07",
+            "tabAccepted": 0,
+            "totalAccepted": 67
+        },
+        {
+            "composerAccepted": 345,
+            "date": "2026-07-08",
+            "tabAccepted": 4,
+            "totalAccepted": 349
+        },
+        {
+            "composerAccepted": 3320,
+            "date": "2026-07-09",
+            "tabAccepted": 0,
+            "totalAccepted": 3320
+        },
+        {
+            "composerAccepted": 12,
+            "date": "2026-07-10",
+            "tabAccepted": 0,
+            "totalAccepted": 12
+        },
+        {
+            "composerAccepted": 12,
+            "date": "2026-07-13",
+            "tabAccepted": 0,
+            "totalAccepted": 12
+        },
+        {
+            "composerAccepted": 2722,
+            "date": "2026-07-14",
+            "tabAccepted": 0,
+            "totalAccepted": 2722
+        },
+        {
+            "composerAccepted": 1242,
+            "date": "2026-07-15",
+            "tabAccepted": 0,
+            "totalAccepted": 1242
+        },
+        {
+            "composerAccepted": 871,
+            "date": "2026-07-16",
+            "tabAccepted": 2,
+            "totalAccepted": 873
+        },
+        {
+            "composerAccepted": 812,
+            "date": "2026-07-18",
+            "tabAccepted": 0,
+            "totalAccepted": 812
+        },
+        {
+            "composerAccepted": 3512,
+            "date": "2026-07-19",
+            "tabAccepted": 0,
+            "totalAccepted": 3512
+        },
+        {
+            "composerAccepted": 3451,
+            "date": "2026-07-20",
+            "tabAccepted": 2,
+            "totalAccepted": 3453
+        },
+        {
+            "composerAccepted": 582,
+            "date": "2026-07-21",
+            "tabAccepted": 0,
+            "totalAccepted": 582
+        },
+        {
+            "composerAccepted": 2483,
+            "date": "2026-07-22",
+            "tabAccepted": 0,
+            "totalAccepted": 2483
+        },
+        {
+            "composerAccepted": 750,
+            "date": "2026-07-23",
+            "tabAccepted": 0,
+            "totalAccepted": 750
+        },
+        {
+            "composerAccepted": 1038,
+            "date": "2026-07-24",
+            "tabAccepted": 0,
+            "totalAccepted": 1038
+        },
+        {
+            "composerAccepted": 12,
+            "date": "2026-07-25",
+            "tabAccepted": 0,
+            "totalAccepted": 12
+        },
+        {
+            "composerAccepted": 526,
+            "date": "2026-07-26",
+            "tabAccepted": 0,
+            "totalAccepted": 526
+        },
+        {
+            "composerAccepted": 1138,
+            "date": "2026-07-27",
+            "tabAccepted": 0,
+            "totalAccepted": 1138
+        },
+        {
+            "composerAccepted": 114,
+            "date": "2026-07-28",
+            "tabAccepted": 12,
+            "totalAccepted": 126
+        },
+        {
+            "composerAccepted": 374,
+            "date": "2026-07-29",
+            "tabAccepted": 0,
+            "totalAccepted": 374
+        },
+        {
+            "composerAccepted": 848,
+            "date": "2026-07-30",
+            "tabAccepted": 0,
+            "totalAccepted": 848
+        },
+        {
+            "composerAccepted": 1084,
+            "date": "2026-07-31",
+            "tabAccepted": 4,
+            "totalAccepted": 1088
+        },
+        {
+            "composerAccepted": 0,
+            "date": "2026-08-01",
+            "tabAccepted": 0,
+            "totalAccepted": 0
+        },
+        {
+            "composerAccepted": 357,
+            "date": "2026-08-02",
+            "tabAccepted": 0,
+            "totalAccepted": 357
+        },
+        {
+            "composerAccepted": 3148,
+            "date": "2026-08-03",
+            "tabAccepted": 0,
+            "totalAccepted": 3148
+        },
+        {
+            "composerAccepted": 123,
+            "date": "2026-08-04",
+            "tabAccepted": 2,
+            "totalAccepted": 125
+        },
+        {
+            "composerAccepted": 451,
+            "date": "2026-08-05",
+            "tabAccepted": 0,
+            "totalAccepted": 451
+        },
+        {
+            "composerAccepted": 40,
+            "date": "2026-08-06",
+            "tabAccepted": 0,
+            "totalAccepted": 40
+        },
+        {
+            "composerAccepted": 8,
+            "date": "2026-08-10",
+            "tabAccepted": 0,
+            "totalAccepted": 8
+        },
+        {
+            "composerAccepted": 726,
+            "date": "2026-08-12",
+            "tabAccepted": 11,
+            "totalAccepted": 737
+        },
+        {
+            "composerAccepted": 372,
+            "date": "2026-08-13",
+            "tabAccepted": 0,
+            "totalAccepted": 372
+        },
+        {
+            "composerAccepted": 438,
+            "date": "2026-08-14",
+            "tabAccepted": 4,
+            "totalAccepted": 442
+        },
+        {
+            "composerAccepted": 0,
+            "date": "2026-08-16",
+            "tabAccepted": 0,
+            "totalAccepted": 0
+        },
+        {
+            "composerAccepted": 157,
+            "date": "2026-08-17",
+            "tabAccepted": 16,
+            "totalAccepted": 173
+        },
+        {
+            "composerAccepted": 2259,
+            "date": "2026-08-18",
+            "tabAccepted": 0,
+            "totalAccepted": 2259
+        },
+        {
+            "composerAccepted": 4443,
+            "date": "2026-08-19",
+            "tabAccepted": 0,
+            "totalAccepted": 4443
+        },
+        {
+            "composerAccepted": 983,
+            "date": "2026-08-20",
+            "tabAccepted": 0,
+            "totalAccepted": 983
+        },
+        {
+            "composerAccepted": 271,
+            "date": "2026-08-21",
+            "tabAccepted": 0,
+            "totalAccepted": 271
+        },
+        {
+            "composerAccepted": 629,
+            "date": "2026-08-24",
+            "tabAccepted": 0,
+            "totalAccepted": 629
+        },
+        {
+            "composerAccepted": 573,
+            "date": "2026-08-25",
+            "tabAccepted": 0,
+            "totalAccepted": 573
+        },
+        {
+            "composerAccepted": 2612,
+            "date": "2026-08-26",
+            "tabAccepted": 0,
+            "totalAccepted": 2612
+        },
+        {
+            "composerAccepted": 368,
+            "date": "2026-08-27",
+            "tabAccepted": 0,
+            "totalAccepted": 368
+        },
+        {
+            "composerAccepted": 1105,
+            "date": "2026-08-31",
+            "tabAccepted": 0,
+            "totalAccepted": 1105
+        },
+        {
+            "composerAccepted": 693,
+            "date": "2026-09-01",
+            "tabAccepted": 2,
+            "totalAccepted": 695
+        }
+    ],
+    "machines": {
+        "Shashank-win32-x64": {
+            "dailyStats": [
+                {
+                    "composerAcceptedLines": 5197,
+                    "composerSuggestedLines": 3592,
+                    "date": "2026-01-13",
+                    "tabAcceptedLines": 4,
+                    "tabSuggestedLines": 22
+                },
+                {
+                    "composerAcceptedLines": 1887,
+                    "composerSuggestedLines": 0,
+                    "date": "2026-01-14",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 2
+                },
+                {
+                    "composerAcceptedLines": 7326,
+                    "composerSuggestedLines": 1626,
+                    "date": "2026-01-16",
+                    "tabAcceptedLines": 8,
+                    "tabSuggestedLines": 28
+                },
+                {
+                    "composerAcceptedLines": 832,
+                    "composerSuggestedLines": 2460,
+                    "date": "2026-01-19",
+                    "tabAcceptedLines": 27,
+                    "tabSuggestedLines": 134
+                },
+                {
+                    "composerAcceptedLines": 2182,
+                    "composerSuggestedLines": 2372,
+                    "date": "2026-01-20",
+                    "tabAcceptedLines": 55,
+                    "tabSuggestedLines": 132
+                },
+                {
+                    "composerAcceptedLines": 4083,
+                    "composerSuggestedLines": 5979,
+                    "date": "2026-01-21",
+                    "tabAcceptedLines": 4,
+                    "tabSuggestedLines": 15
+                },
+                {
+                    "composerAcceptedLines": 787,
+                    "composerSuggestedLines": 54,
+                    "date": "2026-01-22",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 6
+                },
+                {
+                    "composerAcceptedLines": 592,
+                    "composerSuggestedLines": 0,
+                    "date": "2026-01-23",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 11
+                },
+                {
+                    "composerAcceptedLines": 2295,
+                    "composerSuggestedLines": 0,
+                    "date": "2026-01-24",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 8
+                },
+                {
+                    "composerAcceptedLines": 1667,
+                    "composerSuggestedLines": 0,
+                    "date": "2026-01-25",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 1
+                },
+                {
+                    "composerAcceptedLines": 19231,
+                    "composerSuggestedLines": 26012,
+                    "date": "2026-01-27",
+                    "tabAcceptedLines": 18,
+                    "tabSuggestedLines": 63
+                },
+                {
+                    "composerAcceptedLines": 2835,
+                    "composerSuggestedLines": 3259,
+                    "date": "2026-01-28",
+                    "tabAcceptedLines": 4,
+                    "tabSuggestedLines": 15
+                },
+                {
+                    "composerAcceptedLines": 6424,
+                    "composerSuggestedLines": 1943,
+                    "date": "2026-01-29",
+                    "tabAcceptedLines": 4,
+                    "tabSuggestedLines": 53
+                },
+                {
+                    "composerAcceptedLines": 51,
+                    "composerSuggestedLines": 480,
+                    "date": "2026-01-30",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 8
+                },
+                {
+                    "composerAcceptedLines": 193,
+                    "composerSuggestedLines": 223,
+                    "date": "2026-02-02",
+                    "tabAcceptedLines": 4,
+                    "tabSuggestedLines": 30
+                },
+                {
+                    "composerAcceptedLines": 1121,
+                    "composerSuggestedLines": 3425,
+                    "date": "2026-02-03",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 10
+                },
+                {
+                    "composerAcceptedLines": 5442,
+                    "composerSuggestedLines": 6262,
+                    "date": "2026-02-04",
+                    "tabAcceptedLines": 23,
+                    "tabSuggestedLines": 135
+                },
+                {
+                    "composerAcceptedLines": 868,
+                    "composerSuggestedLines": 868,
+                    "date": "2026-02-05",
+                    "tabAcceptedLines": 1,
+                    "tabSuggestedLines": 20
+                },
+                {
+                    "composerAcceptedLines": 7308,
+                    "composerSuggestedLines": 14037,
+                    "date": "2026-02-09",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 1678,
+                    "composerSuggestedLines": 2676,
+                    "date": "2026-02-10",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 2
+                },
+                {
+                    "composerAcceptedLines": 947,
+                    "composerSuggestedLines": 1098,
+                    "date": "2026-02-11",
+                    "tabAcceptedLines": 7,
+                    "tabSuggestedLines": 42
+                },
+                {
+                    "composerAcceptedLines": 664,
+                    "composerSuggestedLines": 592,
+                    "date": "2026-02-12",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 8
+                },
+                {
+                    "composerAcceptedLines": 2511,
+                    "composerSuggestedLines": 2376,
+                    "date": "2026-02-13",
+                    "tabAcceptedLines": 23,
+                    "tabSuggestedLines": 31
+                },
+                {
+                    "composerAcceptedLines": 1156,
+                    "composerSuggestedLines": 1257,
+                    "date": "2026-02-14",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 4
+                },
+                {
+                    "composerAcceptedLines": 1993,
+                    "composerSuggestedLines": 2327,
+                    "date": "2026-02-16",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 212,
+                    "composerSuggestedLines": 212,
+                    "date": "2026-02-17",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 261,
+                    "composerSuggestedLines": 681,
+                    "date": "2026-02-18",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 475,
+                    "composerSuggestedLines": 292,
+                    "date": "2026-02-20",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 4
+                },
+                {
+                    "composerAcceptedLines": 17,
+                    "composerSuggestedLines": 17,
+                    "date": "2026-02-23",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 413,
+                    "composerSuggestedLines": 1015,
+                    "date": "2026-02-24",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 0,
+                    "composerSuggestedLines": 0,
+                    "date": "2026-02-25",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 33
+                },
+                {
+                    "composerAcceptedLines": 0,
+                    "composerSuggestedLines": 0,
+                    "date": "2026-02-26",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 18
+                },
+                {
+                    "composerAcceptedLines": 1228,
+                    "composerSuggestedLines": 911,
+                    "date": "2026-03-04",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 13
+                },
+                {
+                    "composerAcceptedLines": 1119,
+                    "composerSuggestedLines": 1483,
+                    "date": "2026-03-05",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 12
+                },
+                {
+                    "composerAcceptedLines": 3728,
+                    "composerSuggestedLines": 3542,
+                    "date": "2026-03-09",
+                    "tabAcceptedLines": 3,
+                    "tabSuggestedLines": 15
+                },
+                {
+                    "composerAcceptedLines": 838,
+                    "composerSuggestedLines": 1258,
+                    "date": "2026-03-10",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 3
+                },
+                {
+                    "composerAcceptedLines": 1988,
+                    "composerSuggestedLines": 1280,
+                    "date": "2026-03-11",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 14
+                },
+                {
+                    "composerAcceptedLines": 406,
+                    "composerSuggestedLines": 921,
+                    "date": "2026-03-12",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 30
+                },
+                {
+                    "composerAcceptedLines": 126,
+                    "composerSuggestedLines": 142,
+                    "date": "2026-03-13",
+                    "tabAcceptedLines": 18,
+                    "tabSuggestedLines": 84
+                },
+                {
+                    "composerAcceptedLines": 1772,
+                    "composerSuggestedLines": 1246,
+                    "date": "2026-03-16",
+                    "tabAcceptedLines": 6,
+                    "tabSuggestedLines": 21
+                },
+                {
+                    "composerAcceptedLines": 426,
+                    "composerSuggestedLines": 459,
+                    "date": "2026-03-17",
+                    "tabAcceptedLines": 16,
+                    "tabSuggestedLines": 72
+                },
+                {
+                    "composerAcceptedLines": 164,
+                    "composerSuggestedLines": 141,
+                    "date": "2026-03-18",
+                    "tabAcceptedLines": 3,
+                    "tabSuggestedLines": 16
+                },
+                {
+                    "composerAcceptedLines": 811,
+                    "composerSuggestedLines": 740,
+                    "date": "2026-03-19",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 2347,
+                    "composerSuggestedLines": 2259,
+                    "date": "2026-03-20",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 284,
+                    "composerSuggestedLines": 205,
+                    "date": "2026-03-21",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 2
+                },
+                {
+                    "composerAcceptedLines": 205,
+                    "composerSuggestedLines": 372,
+                    "date": "2026-03-22",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 19
+                },
+                {
+                    "composerAcceptedLines": 1842,
+                    "composerSuggestedLines": 1378,
+                    "date": "2026-03-23",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 17
+                },
+                {
+                    "composerAcceptedLines": 251,
+                    "composerSuggestedLines": 396,
+                    "date": "2026-03-24",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 2
+                },
+                {
+                    "composerAcceptedLines": 62,
+                    "composerSuggestedLines": 361,
+                    "date": "2026-03-25",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 826,
+                    "composerSuggestedLines": 666,
+                    "date": "2026-03-26",
+                    "tabAcceptedLines": 4,
+                    "tabSuggestedLines": 16
+                },
+                {
+                    "composerAcceptedLines": 1408,
+                    "composerSuggestedLines": 1564,
+                    "date": "2026-03-27",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 24
+                },
+                {
+                    "composerAcceptedLines": 399,
+                    "composerSuggestedLines": 300,
+                    "date": "2026-03-30",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 8
+                },
+                {
+                    "composerAcceptedLines": 81,
+                    "composerSuggestedLines": 110,
+                    "date": "2026-03-31",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 1601,
+                    "composerSuggestedLines": 392,
+                    "date": "2026-04-02",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 922,
+                    "composerSuggestedLines": 1073,
+                    "date": "2026-04-06",
+                    "tabAcceptedLines": 4,
+                    "tabSuggestedLines": 27
+                },
+                {
+                    "composerAcceptedLines": 164,
+                    "composerSuggestedLines": 176,
+                    "date": "2026-04-07",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 7
+                },
+                {
+                    "composerAcceptedLines": 91,
+                    "composerSuggestedLines": 169,
+                    "date": "2026-04-08",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 4
+                },
+                {
+                    "composerAcceptedLines": 636,
+                    "composerSuggestedLines": 845,
+                    "date": "2026-04-09",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 1160,
+                    "composerSuggestedLines": 1094,
+                    "date": "2026-04-10",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 3446,
+                    "composerSuggestedLines": 2356,
+                    "date": "2026-04-11",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 28
+                },
+                {
+                    "composerAcceptedLines": 3303,
+                    "composerSuggestedLines": 4181,
+                    "date": "2026-04-12",
+                    "tabAcceptedLines": 13,
+                    "tabSuggestedLines": 97
+                },
+                {
+                    "composerAcceptedLines": 1030,
+                    "composerSuggestedLines": 190,
+                    "date": "2026-04-13",
+                    "tabAcceptedLines": 8,
+                    "tabSuggestedLines": 25
+                },
+                {
+                    "composerAcceptedLines": 618,
+                    "composerSuggestedLines": 622,
+                    "date": "2026-04-14",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 2
+                },
+                {
+                    "composerAcceptedLines": 441,
+                    "composerSuggestedLines": 441,
+                    "date": "2026-04-15",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 2284,
+                    "composerSuggestedLines": 2101,
+                    "date": "2026-04-16",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 12
+                },
+                {
+                    "composerAcceptedLines": 618,
+                    "composerSuggestedLines": 618,
+                    "date": "2026-04-17",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 167,
+                    "composerSuggestedLines": 191,
+                    "date": "2026-04-19",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 10
+                },
+                {
+                    "composerAcceptedLines": 206,
+                    "composerSuggestedLines": 206,
+                    "date": "2026-04-20",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 4
+                },
+                {
+                    "composerAcceptedLines": 788,
+                    "composerSuggestedLines": 857,
+                    "date": "2026-04-21",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 13
+                },
+                {
+                    "composerAcceptedLines": 688,
+                    "composerSuggestedLines": 1107,
+                    "date": "2026-04-22",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 63
+                },
+                {
+                    "composerAcceptedLines": 1229,
+                    "composerSuggestedLines": 664,
+                    "date": "2026-04-23",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 2
+                },
+                {
+                    "composerAcceptedLines": 487,
+                    "composerSuggestedLines": 331,
+                    "date": "2026-04-24",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 397,
+                    "composerSuggestedLines": 645,
+                    "date": "2026-04-27",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 6743,
+                    "composerSuggestedLines": 6593,
+                    "date": "2026-04-28",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 15
+                },
+                {
+                    "composerAcceptedLines": 1698,
+                    "composerSuggestedLines": 1860,
+                    "date": "2026-04-29",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 14
+                },
+                {
+                    "composerAcceptedLines": 4967,
+                    "composerSuggestedLines": 2955,
+                    "date": "2026-04-30",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 35
+                },
+                {
+                    "composerAcceptedLines": 4477,
+                    "composerSuggestedLines": 4581,
+                    "date": "2026-05-01",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 30
+                },
+                {
+                    "composerAcceptedLines": 6,
+                    "composerSuggestedLines": 22,
+                    "date": "2026-05-02",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 626,
+                    "composerSuggestedLines": 490,
+                    "date": "2026-05-04",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 6
+                },
+                {
+                    "composerAcceptedLines": 1426,
+                    "composerSuggestedLines": 1221,
+                    "date": "2026-05-05",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 4
+                },
+                {
+                    "composerAcceptedLines": 127,
+                    "composerSuggestedLines": 109,
+                    "date": "2026-05-06",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 9
+                },
+                {
+                    "composerAcceptedLines": 1626,
+                    "composerSuggestedLines": 1624,
+                    "date": "2026-05-07",
+                    "tabAcceptedLines": 4,
+                    "tabSuggestedLines": 15
+                },
+                {
+                    "composerAcceptedLines": 346,
+                    "composerSuggestedLines": 569,
+                    "date": "2026-05-08",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 4
+                },
+                {
+                    "composerAcceptedLines": 5895,
+                    "composerSuggestedLines": 5863,
+                    "date": "2026-05-09",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 240,
+                    "composerSuggestedLines": 240,
+                    "date": "2026-05-11",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 644,
+                    "composerSuggestedLines": 659,
+                    "date": "2026-05-12",
+                    "tabAcceptedLines": 4,
+                    "tabSuggestedLines": 25
+                },
+                {
+                    "composerAcceptedLines": 398,
+                    "composerSuggestedLines": 882,
+                    "date": "2026-05-13",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 32
+                },
+                {
+                    "composerAcceptedLines": 77,
+                    "composerSuggestedLines": 52,
+                    "date": "2026-05-14",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 19
+                },
+                {
+                    "composerAcceptedLines": 996,
+                    "composerSuggestedLines": 979,
+                    "date": "2026-05-15",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 6
+                },
+                {
+                    "composerAcceptedLines": 119,
+                    "composerSuggestedLines": 148,
+                    "date": "2026-05-16",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 25,
+                    "composerSuggestedLines": 32,
+                    "date": "2026-05-18",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 5
+                },
+                {
+                    "composerAcceptedLines": 431,
+                    "composerSuggestedLines": 553,
+                    "date": "2026-05-19",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 7
+                },
+                {
+                    "composerAcceptedLines": 709,
+                    "composerSuggestedLines": 709,
+                    "date": "2026-05-20",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 2
+                },
+                {
+                    "composerAcceptedLines": 610,
+                    "composerSuggestedLines": 610,
+                    "date": "2026-05-21",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 406,
+                    "composerSuggestedLines": 413,
+                    "date": "2026-05-22",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 0,
+                    "composerSuggestedLines": 453,
+                    "date": "2026-05-24",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 1485,
+                    "composerSuggestedLines": 996,
+                    "date": "2026-05-25",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 4
+                },
+                {
+                    "composerAcceptedLines": 2409,
+                    "composerSuggestedLines": 2969,
+                    "date": "2026-05-26",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 3
+                },
+                {
+                    "composerAcceptedLines": 1118,
+                    "composerSuggestedLines": 47,
+                    "date": "2026-05-27",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 0,
+                    "composerSuggestedLines": 111,
+                    "date": "2026-05-28",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 1287,
+                    "composerSuggestedLines": 1044,
+                    "date": "2026-05-29",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 10
+                },
+                {
+                    "composerAcceptedLines": 668,
+                    "composerSuggestedLines": 668,
+                    "date": "2026-06-01",
+                    "tabAcceptedLines": 1,
+                    "tabSuggestedLines": 23
+                },
+                {
+                    "composerAcceptedLines": 1081,
+                    "composerSuggestedLines": 1081,
+                    "date": "2026-06-02",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 14,
+                    "composerSuggestedLines": 35,
+                    "date": "2026-06-03",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 10
+                },
+                {
+                    "composerAcceptedLines": 953,
+                    "composerSuggestedLines": 1013,
+                    "date": "2026-06-04",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 8
+                },
+                {
+                    "composerAcceptedLines": 782,
+                    "composerSuggestedLines": 782,
+                    "date": "2026-06-08",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 990,
+                    "composerSuggestedLines": 1615,
+                    "date": "2026-06-09",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 1710,
+                    "composerSuggestedLines": 985,
+                    "date": "2026-06-10",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 31
+                },
+                {
+                    "composerAcceptedLines": 2589,
+                    "composerSuggestedLines": 2463,
+                    "date": "2026-06-11",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 24
+                },
+                {
+                    "composerAcceptedLines": 2230,
+                    "composerSuggestedLines": 1950,
+                    "date": "2026-06-12",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 11
+                },
+                {
+                    "composerAcceptedLines": 174,
+                    "composerSuggestedLines": 288,
+                    "date": "2026-06-15",
+                    "tabAcceptedLines": 10,
+                    "tabSuggestedLines": 36
+                },
+                {
+                    "composerAcceptedLines": 14,
+                    "composerSuggestedLines": 16,
+                    "date": "2026-06-16",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 2
+                },
+                {
+                    "composerAcceptedLines": 1229,
+                    "composerSuggestedLines": 1084,
+                    "date": "2026-06-17",
+                    "tabAcceptedLines": 3,
+                    "tabSuggestedLines": 17
+                },
+                {
+                    "composerAcceptedLines": 370,
+                    "composerSuggestedLines": 368,
+                    "date": "2026-06-18",
+                    "tabAcceptedLines": 6,
+                    "tabSuggestedLines": 32
+                },
+                {
+                    "composerAcceptedLines": 1299,
+                    "composerSuggestedLines": 1241,
+                    "date": "2026-06-19",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 13
+                },
+                {
+                    "composerAcceptedLines": 3743,
+                    "composerSuggestedLines": 4248,
+                    "date": "2026-06-22",
+                    "tabAcceptedLines": 4,
+                    "tabSuggestedLines": 50
+                },
+                {
+                    "composerAcceptedLines": 212,
+                    "composerSuggestedLines": 186,
+                    "date": "2026-06-23",
+                    "tabAcceptedLines": 4,
+                    "tabSuggestedLines": 12
+                },
+                {
+                    "composerAcceptedLines": 2109,
+                    "composerSuggestedLines": 2352,
+                    "date": "2026-06-24",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 6
+                },
+                {
+                    "composerAcceptedLines": 378,
+                    "composerSuggestedLines": 777,
+                    "date": "2026-06-25",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 67
+                },
+                {
+                    "composerAcceptedLines": 1389,
+                    "composerSuggestedLines": 933,
+                    "date": "2026-06-26",
+                    "tabAcceptedLines": 16,
+                    "tabSuggestedLines": 30
+                },
+                {
+                    "composerAcceptedLines": 1246,
+                    "composerSuggestedLines": 1182,
+                    "date": "2026-06-29",
+                    "tabAcceptedLines": 13,
+                    "tabSuggestedLines": 85
+                },
+                {
+                    "composerAcceptedLines": 1108,
+                    "composerSuggestedLines": 765,
+                    "date": "2026-06-30",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 18
+                },
+                {
+                    "composerAcceptedLines": 1252,
+                    "composerSuggestedLines": 1295,
+                    "date": "2026-07-01",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 4
+                },
+                {
+                    "composerAcceptedLines": 78,
+                    "composerSuggestedLines": 78,
+                    "date": "2026-07-02",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 61,
+                    "composerSuggestedLines": 360,
+                    "date": "2026-07-03",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 1351,
+                    "composerSuggestedLines": 1338,
+                    "date": "2026-07-06",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 14
+                },
+                {
+                    "composerAcceptedLines": 67,
+                    "composerSuggestedLines": 350,
+                    "date": "2026-07-07",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 15
+                },
+                {
+                    "composerAcceptedLines": 345,
+                    "composerSuggestedLines": 510,
+                    "date": "2026-07-08",
+                    "tabAcceptedLines": 4,
+                    "tabSuggestedLines": 13
+                },
+                {
+                    "composerAcceptedLines": 3320,
+                    "composerSuggestedLines": 2923,
+                    "date": "2026-07-09",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 12,
+                    "composerSuggestedLines": 12,
+                    "date": "2026-07-10",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 6
+                },
+                {
+                    "composerAcceptedLines": 12,
+                    "composerSuggestedLines": 18,
+                    "date": "2026-07-13",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 4
+                },
+                {
+                    "composerAcceptedLines": 2722,
+                    "composerSuggestedLines": 2460,
+                    "date": "2026-07-14",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 11
+                },
+                {
+                    "composerAcceptedLines": 1242,
+                    "composerSuggestedLines": 795,
+                    "date": "2026-07-15",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 871,
+                    "composerSuggestedLines": 338,
+                    "date": "2026-07-16",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 10
+                },
+                {
+                    "composerAcceptedLines": 812,
+                    "composerSuggestedLines": 909,
+                    "date": "2026-07-18",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 3
+                },
+                {
+                    "composerAcceptedLines": 3512,
+                    "composerSuggestedLines": 3439,
+                    "date": "2026-07-19",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 3451,
+                    "composerSuggestedLines": 2572,
+                    "date": "2026-07-20",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 15
+                },
+                {
+                    "composerAcceptedLines": 582,
+                    "composerSuggestedLines": 469,
+                    "date": "2026-07-21",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 2483,
+                    "composerSuggestedLines": 836,
+                    "date": "2026-07-22",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 8
+                },
+                {
+                    "composerAcceptedLines": 750,
+                    "composerSuggestedLines": 1399,
+                    "date": "2026-07-23",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 2
+                },
+                {
+                    "composerAcceptedLines": 1038,
+                    "composerSuggestedLines": 434,
+                    "date": "2026-07-24",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 2
+                },
+                {
+                    "composerAcceptedLines": 12,
+                    "composerSuggestedLines": 12,
+                    "date": "2026-07-25",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 526,
+                    "composerSuggestedLines": 526,
+                    "date": "2026-07-26",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 1138,
+                    "composerSuggestedLines": 1017,
+                    "date": "2026-07-27",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 114,
+                    "composerSuggestedLines": 144,
+                    "date": "2026-07-28",
+                    "tabAcceptedLines": 12,
+                    "tabSuggestedLines": 49
+                },
+                {
+                    "composerAcceptedLines": 374,
+                    "composerSuggestedLines": 1140,
+                    "date": "2026-07-29",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 2
+                },
+                {
+                    "composerAcceptedLines": 848,
+                    "composerSuggestedLines": 887,
+                    "date": "2026-07-30",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 4
+                },
+                {
+                    "composerAcceptedLines": 1084,
+                    "composerSuggestedLines": 1165,
+                    "date": "2026-07-31",
+                    "tabAcceptedLines": 4,
+                    "tabSuggestedLines": 70
+                },
+                {
+                    "composerAcceptedLines": 0,
+                    "composerSuggestedLines": 34,
+                    "date": "2026-08-01",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 357,
+                    "composerSuggestedLines": 323,
+                    "date": "2026-08-02",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 3148,
+                    "composerSuggestedLines": 2648,
+                    "date": "2026-08-03",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 11
+                },
+                {
+                    "composerAcceptedLines": 123,
+                    "composerSuggestedLines": 180,
+                    "date": "2026-08-04",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 30
+                },
+                {
+                    "composerAcceptedLines": 451,
+                    "composerSuggestedLines": 456,
+                    "date": "2026-08-05",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 40,
+                    "composerSuggestedLines": 40,
+                    "date": "2026-08-06",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 8,
+                    "composerSuggestedLines": 8,
+                    "date": "2026-08-10",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 726,
+                    "composerSuggestedLines": 94,
+                    "date": "2026-08-12",
+                    "tabAcceptedLines": 11,
+                    "tabSuggestedLines": 17
+                },
+                {
+                    "composerAcceptedLines": 372,
+                    "composerSuggestedLines": 767,
+                    "date": "2026-08-13",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 438,
+                    "composerSuggestedLines": 8,
+                    "date": "2026-08-14",
+                    "tabAcceptedLines": 4,
+                    "tabSuggestedLines": 30
+                },
+                {
+                    "composerAcceptedLines": 0,
+                    "composerSuggestedLines": 106,
+                    "date": "2026-08-16",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 157,
+                    "composerSuggestedLines": 1621,
+                    "date": "2026-08-17",
+                    "tabAcceptedLines": 16,
+                    "tabSuggestedLines": 55
+                },
+                {
+                    "composerAcceptedLines": 2259,
+                    "composerSuggestedLines": 1846,
+                    "date": "2026-08-18",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 12
+                },
+                {
+                    "composerAcceptedLines": 4443,
+                    "composerSuggestedLines": 3269,
+                    "date": "2026-08-19",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 10
+                },
+                {
+                    "composerAcceptedLines": 983,
+                    "composerSuggestedLines": 934,
+                    "date": "2026-08-20",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 2
+                },
+                {
+                    "composerAcceptedLines": 271,
+                    "composerSuggestedLines": 592,
+                    "date": "2026-08-21",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 629,
+                    "composerSuggestedLines": 204,
+                    "date": "2026-08-24",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 16
+                },
+                {
+                    "composerAcceptedLines": 573,
+                    "composerSuggestedLines": 1425,
+                    "date": "2026-08-25",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 6
+                },
+                {
+                    "composerAcceptedLines": 2612,
+                    "composerSuggestedLines": 1310,
+                    "date": "2026-08-26",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 4
+                },
+                {
+                    "composerAcceptedLines": 368,
+                    "composerSuggestedLines": 353,
+                    "date": "2026-08-27",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 1105,
+                    "composerSuggestedLines": 760,
+                    "date": "2026-08-31",
+                    "tabAcceptedLines": 0,
+                    "tabSuggestedLines": 0
+                },
+                {
+                    "composerAcceptedLines": 693,
+                    "composerSuggestedLines": 597,
+                    "date": "2026-09-01",
+                    "tabAcceptedLines": 2,
+                    "tabSuggestedLines": 4
+                }
+            ],
+            "machineId": "Shashank-win32-x64",
+            "totals": {
+                "composerAcceptedLines": 232227,
+                "composerSuggestedLines": 226945,
+                "tabAcceptedLines": 411,
+                "tabSuggestedLines": 2646
+            }
+        }
+    },
+    "meta": {
+        "busiestDay": {
+            "date": "2026-01-27",
+            "totalAccepted": 19249
+        },
+        "streak": 2,
+        "trackingSince": "2026-01-13"
+    },
+    "totals": {
+        "composer": {
+            "acceptanceRate": 102.3,
+            "accepted": 232227,
+            "suggested": 226945
+        },
+        "tab": {
+            "acceptanceRate": 15.5,
+            "accepted": 411,
+            "suggested": 2646
+        }
+    },
+    "updatedAt": "2026-09-01T15:36:11.342Z"
+}
