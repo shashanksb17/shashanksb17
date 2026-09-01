@@ -157,7 +157,6 @@ Open to backend roles, system-design discussions, and NestJS / Node work.
   <a href="mailto:sbasutkar999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://www.linkedin.com/in/shashank-basutkar-3bb523206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://twitter.com/shashankb98"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
-  <a href="https://www.youtube.com/channel/UCxdEn5JB40xhZmaLtu6ap0w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
 </p>
 
 <div align="center">
