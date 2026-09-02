@@ -78,7 +78,6 @@ const shashank = {
 
 ---
 
-<<<<<<< HEAD
 ## Experience
 
 | Company | Role | Focus |
@@ -112,7 +111,6 @@ const shashank = {
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=shashanksb17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shashanksb17&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
 </p>
 
