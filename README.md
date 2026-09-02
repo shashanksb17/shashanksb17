@@ -124,13 +124,9 @@ const shashank = {
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashanksb17&theme=tokyonight" alt="Summary stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashanksb17&theme=tokyonight" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashanksb17&theme=tokyonight" alt="Productive time" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/shashanksb17" alt="Contribution graph" />
-</p>
+
 
 <p align="center"><i>Top languages reflect public repos only — not everything I work on day to day.</i></p>
 
