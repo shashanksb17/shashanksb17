@@ -20,7 +20,7 @@
 
 ## About
 
-I design and ship **backend systems for fintech** — auth, payments, partner flows, and high-traffic APIs — with NestJS, TypeScript, and PostgreSQL.
+I design and ship **backend systems** — auth, payments, partner flows, and high-traffic APIs — with NestJS, TypeScript, and PostgreSQL.
 
 ```javascript
 const shashank = {
